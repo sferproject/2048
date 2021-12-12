@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: 网站名称
+name: 2048
 
 # Short bio or description (displayed in the header)
-description: 一句话介绍
+description: 省附人的精神角落
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -28,29 +28,29 @@ navigation:
     url: /categories.html
   - name: RSS
     url: /atom.xml
-  - name: 关于
-    url: /about.html
+  - name: 发起
+    url: https://github.com/sferproject/2048/new/master/_posts
 
 # Pagination
-paginate: 20
+paginate: 15
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: terminus2049@protonmail.com
+  email: terminus202110@163.com
   facebook:
   flickr:
-  github: TerminusBot/terminus-jekyll-template
+  github: sferproject/2048
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
-  telegram: terminus_9402
+  telegram: 
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
@@ -58,13 +58,13 @@ footer-text: Powered by <a href="https://github.com/TerminusBot/terminus-jekyll-
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://terminusbot.github.io/
+url: https://sferproject.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: /terminus-jekyll-template
+ baseurl: /2048
 
 #
 # !! You don't need to change any of the configuration flags below !!
